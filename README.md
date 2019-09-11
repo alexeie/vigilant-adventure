@@ -3,7 +3,7 @@ test-description
 
 ### Sub-heading
 
-![Cool Cat](cool_cat.jpg)
+![Programmer Cat](programmer.png)
 
 ## Other usb-heading
 
