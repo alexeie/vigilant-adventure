@@ -3,7 +3,7 @@ test-description
 
 ### Sub-heading
 
-!(pixabay Cat)(pixabay_Free-photos.jpg)
+!(pixabay Cat)(cool_cat.jpg)
 
 ## Other usb-heading
 
